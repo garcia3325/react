@@ -1,0 +1,42 @@
+body {
+    background-color: #eeee;
+    margin: 10px;
+    padding: 5px;
+    flex-direction:row;
+    text-decoration: none;
+}
+
+.imgs{
+    margin: 20px;
+}
+.submit-btn {
+    background-color: #4CAF50;
+    border: 1px;
+    color: white;
+    padding: 15px 32px;
+}
+.space-contact{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.footer{
+    background-color: #CBC4C2;
+    flex-direction:row;
+    justify-content: center;
+    margin: auto;
+    padding: 15px;
+    
+}
+.footer-btn{
+    color:#A9A299;
+}
+.footer-btn-icon{
+    margin-right: 5px;
+}
+.footer-btn-text{
+    color: white;
+    text-decoration: none;
+}
+.copyright{
+    margin-top: 15px;
+}
