@@ -16,15 +16,20 @@ The primary goal for this project was to showcases to the online community my sk
 
 Project is created with:
 
-HTML
-CSS
+1- HTML
+
+2- CSS
 
 ## Set Up
 
 1-To open this project in vscode using git in Terminal/Git Bash:
+
 2- $ mkdir portfolio_project
+
 3- $ cd portfolio_project
+
 4- $ https://github.com/garcia3325/react.git
+
 5-$ code .
 
 ### Deployment
