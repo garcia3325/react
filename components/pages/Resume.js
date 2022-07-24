@@ -3,6 +3,7 @@ import React from 'react';
 export default function Resume() {
   return (
     <div>
+
       <h3>Thank you for your Interest</h3>
       <p>
         You can view my Resume by visiting the link below.

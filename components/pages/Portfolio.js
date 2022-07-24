@@ -27,7 +27,7 @@ export default function Portfolio() {
     </div>
     <React.Fragment>
 <div>
-      <footer className='footer'>
+      <footer className='ooter-portfolio'>
         <div>
         <button type="button" className='footer-btn' class="btn btn-primary btn-lg btn-floating mx-2" >
         <i class="github"></i>

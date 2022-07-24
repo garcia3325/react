@@ -20,7 +20,23 @@ body {
     padding-bottom: 20px;
 }
 .footer{
-    background-color: #CBC4C2;
+    position: absolute;
+    left:0;
+bottom:0;
+right:0;
+background-color: #eeee;
+    flex-direction:row;
+    justify-content: center;
+    margin: auto;
+    padding: 15px;
+    
+}
+.footer-portfolio{
+    position: relative;
+    left:0;
+bottom:0;
+right:0;
+background-color: #eeee;
     flex-direction:row;
     justify-content: center;
     margin: auto;
