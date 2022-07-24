@@ -2,16 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Project Goals
+## Project Goals
 
 The primary goal for this project was to showcases to the online community my skills at front-end developer by creating a responsive portfolio webpage that contains CSS styling, media quires, and a contact form.
 
-##Features
+## Features
 
 Hyperlinks
 Adjusting webpage for different screen sizes
 
-##Technologies
+## Technologies
 
 Project is created with:
 
