@@ -8,8 +8,9 @@ The primary goal for this project was to showcases to the online community my sk
 
 ## Features
 
-Hyperlinks
-Adjusting webpage for different screen sizes
+1-Hyperlinks
+
+2-Adjusting webpage for different screen sizes
 
 ## Technologies
 
@@ -20,11 +21,11 @@ CSS
 
 ## Set Up
 
-To open this project in vscode using git in Terminal/Git Bash:
-$ mkdir portfolio_project
-$ cd portfolio_project
-$ https://github.com/garcia3325/react.git
-$ code .
+1-To open this project in vscode using git in Terminal/Git Bash:
+2- $ mkdir portfolio_project
+3- $ cd portfolio_project
+4- $ https://github.com/garcia3325/react.git
+5-$ code .
 
 ### Deployment
 
